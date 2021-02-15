@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Droidekas - Registeration</title>
+  <link rel="stylesheet" href="../css/indexstyle.css">
+</head>
+
+<body>
+  <header class = "header">
+    <h1>Droidekas Club</h1>
+    <p>Registeration</p>
+    <a class = "btn-bgstroke", href = "../html/index.html">Home</a>
+  </header>
+  <br>
+  <main>
+    <form class = "form">
+      <div class = "namediv">
+        <label for="fname" class = "mylabel">First name: </label>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname" class = "mylabel">Last name: </label>
+        <input type="text" id="lname" name="lname"><br>
+      </div>
+      
+      <div class = "genderdiv">
+        <label for="gender" class = "mylabel">Gender: </label><br>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male" class = "mylabel">Male</label><br>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female" class = "mylabel">Female</label><br>
+      </div>
+
+      <div class = "emaildiv">
+        <label for="email" class = "mylabel">Email: </label>
+        <input type="email" id="email" name="email"><br>
+      </div>
+
+      <div class = "iddiv">
+        <label for="quid" class = "mylabel">QUID: </label>
+        <input type="number" id="quid" name="quid"><br>
+      </div>
+      
+      <div class = "collegediv">
+        <label for="college" class = "mylabel">College: </label><br>
+        <input type="radio" id="engineering" name="engineering" value="engineering">
+        <label for="engineering" class = "mylabel">Engineering</label><br>
+        <input type="radio" id="science" name="science" value="science">
+        <label for="science" class = "mylabel">Science</label><br>
+        <input type="radio" id="othercollege" name="othercollege" value="othercollege">
+        <label for="othercollege" class = "mylabel">Others</label><br>
+      </div>
+
+      <div class = "majordiv">
+        <label for="major" class = "mylabel">Major: </label>
+        <input type="text" id="major" name="major"><br>
+      </div>
+
+      <div class = "reasondiv">
+        <label for="reason" class = "mylabel">Why do you want to join Droidekas?</label><br>
+        <textarea id="reason" name="reason" rows="4" cols="50">Write your answer here</textarea>
+      </div>
+    </form>
+  </main>
+
+  <footer class = "registerfooter">
+      <a class = "btn-bgstroke">Register</a>
+  </footer>
+</body>
+</html>

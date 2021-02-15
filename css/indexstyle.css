@@ -1,0 +1,294 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+
+h1,
+p,
+a{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato';
+}
+
+h1 {
+  font-size: 2.8em;
+  padding: 10px 0;
+  font-weight: 800;
+}
+
+p {
+  font-size: 2em;
+  font-weight: 100;
+  letter-spacing: 5px;
+}
+
+
+.header {
+  width: 100%;
+  padding:60px 0;
+  text-align: center;
+  background: #33cccc;
+  color: white;
+}
+
+
+.btn-bgstroke {
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 300;
+  margin-top: 30px; 
+}
+
+.btn-bgstroke:hover {
+  background-color: white;
+  color: #33cccc;
+}
+
+.abouth1 {
+  padding-bottom: 0;
+  margin: 5;
+  margin-left: 130px;
+}
+
+.aboutp{
+  font-size: 1.5em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  width: 50%;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+  display: inline-block;
+}
+
+.MFRobot{
+  display: inline-block;
+}
+
+.boardh1{
+  padding-top: 100px;
+  padding-bottom: 0;
+  margin: 5;
+  margin-left: 130px;
+}
+
+.yodah2{
+  color: black;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+}
+
+.yodap{
+  font-size: 1.5em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  width: 50%;
+  margin-left: 100px;
+  margin-right: 270px;
+  text-indent: 30px;
+  display: inline-block;
+}
+
+.yodapic{
+  display: inline-block;
+}
+
+.winduh2{
+  color: black;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+}
+
+.windup{
+  font-size: 1.5em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  width: 50%;
+  margin-left: 100px;
+  margin-right: 270px;
+  text-indent: 30px;
+  display: inline-block;
+}
+
+.windupic{
+  display: inline-block;
+}
+
+.kenobih2{
+  color: black;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+}
+
+.kenobip{
+  font-size: 1.5em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  width: 50%;
+  margin-left: 100px;
+  margin-right: 270px;
+  text-indent: 30px;
+  display: inline-block;
+}
+
+.kenobipic{
+  display: inline-block;
+}
+
+.footer {
+  width: 100%;
+  padding:10px 0;
+  text-align: left;
+  background: #33cccc;
+}
+
+.footerp{
+  font-size: 1em;
+  font-weight: 100;
+  letter-spacing: 1px;
+  color: white;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  width: 100%;
+  display: inline-block;
+}
+
+.footerdiv{
+  margin-left: 100px;
+  margin-right: 270px;
+}
+
+.linksdiv{
+  display: inline
+}
+
+.contactdiv{
+  display: inline
+}
+
+.achh1{
+  padding-top: 100px;
+  padding-bottom: 0;
+  margin: 5;
+  margin-left: 130px;
+}
+
+.achh2{
+  color: black;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+}
+
+ul{
+  font-size: 1.3em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 270px;
+  display: inline-block;
+}
+
+.eventsh1{
+  padding-top: 100px;
+  padding-bottom: 0;
+  margin: 5;
+  margin-left: 130px;
+}
+
+.mf19h2{
+  color: black;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+}
+
+.mf19p{
+  font-size: 1.5em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 30px;
+  display: inline-block;
+  width: 100;
+}
+
+.mf19pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+}
+
+.alienh2{
+  color: black;
+  margin-left: 100px;
+  margin-right: 200px;
+  text-indent: 30px;
+}
+
+.alienp{
+  font-size: 1.5em;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 30px;
+  display: inline-block;
+  width: 100;
+}
+
+.alienpic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+}
+
+.registerfooter{
+  width: 100%;
+  padding:60px 0;
+  text-align: center;
+  background: #33cccc;
+  color: white;
+}
+
+.form{
+  margin: 10%;
+  text-align: left;
+}
+
+.mylabel{
+  margin-left: 30px;
+}
+
+.intro{
+  font-weight: bold;
+}
